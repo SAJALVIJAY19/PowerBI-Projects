@@ -1,7 +1,5 @@
 # 🌦️ Power BI Weather Dashboard
 
-![Weather Dashboard Screenshot](./d4aa5b49-30bb-4839-b8b5-292b0152d753.png)
-
 ## 📊 Overview
 
 This Power BI project presents a **real-time weather dashboard** using data fetched from a weather API. It visualizes live and forecasted weather metrics for cities such as:
@@ -40,7 +38,7 @@ The dashboard consumes weather data from a weather API and visualizes the follow
 - ✅ **Air Quality Index (AQI)**
 - ✅ **Sunrise/Sunset Times**
 
-**Sample Fields Retrieved:**
+**Sample Fields Created:**
 - `temp_c`, `condition.text`, `humidity`, `uv`, `pressure_mb`, `wind_kph`
 - `forecast.forecastday[]`
 - `air_quality.pm2_5`, `co`, `no2`, etc.
