@@ -3,7 +3,7 @@
 ## 📸 Dashboard Preview  
 
 ### Transaction Analysis Dashboard  
-![Transaction Dashboard](https://drive.google.com/uc?id=1ZS06M1cqNRIIKe8cmMJTo2rHZNVTb4ve)  
+![Transaction Dashboard](https://drive.google.com/file/d/1ZS06M1cqNRIIKe8cmMJTo2rHZNVTb4ve/view?usp=sharing)  
 
 ### Customer Analysis Dashboard  
 ![Customer Dashboard](https://drive.google.com/uc?id=10ZTt88Uzeuq8_oBKz_13_S_t8U118S85D)  
